@@ -8,3 +8,13 @@ int main()
 cout<<"hot-fix\n"<<endl;
 return 0;
 }
+int main()
+{
+cout<<"hot-fix\n"<<endl;
+return 0;
+}
+int main()
+{
+cout<<"hot-fix\n"<<endl;
+return 0;
+}
